@@ -8,5 +8,9 @@
 <body>
    <h1><?php echo "Hello World"; ?></h1> 
    <p><?php echo "Hello World"; ?></p>
+   <ul>
+    <li>satu</li>
+    <li>dua</li>
+   </ul>
 </body>
 </html>
